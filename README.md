@@ -5,7 +5,7 @@ Predictions:
 SF1: Brazil v/s Uruguay
 SF2: Spain vs England
 Final: Brazil v/s England
-Winner England
+Winner Brazil
 
 List of variables decided for the prediction model:
 
